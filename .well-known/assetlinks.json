@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.recipe_app",
-               "sha256_cert_fingerprints": ["29:62:91:06:6B:C5:FA:7F:65:72:77:4A:54:A4:EF:2E:27:68:89:51:5F:F1:8A:09:45:F6:3B:0F:4A:59:0B:91"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fliptango.android",
+    "sha256_cert_fingerprints":
+    ["CD:25:30:A0:7C:B5:24:47:19:75:0B:80:BE:6B:B3:4C:98:C0:9F:F3:8D:04:40:3C:C6:18:B9:4D:0D:4F:E9:3A"]
+  }
 }]
